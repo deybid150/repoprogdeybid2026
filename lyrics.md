@@ -1,4 +1,4 @@
-## Ride it-regard ##
+# Ride It – Jay Sean
 
 Ride it, we're all alone
 Ride it, just lose control
@@ -49,4 +49,27 @@ Ride it, from head to toe
 Ride it, ride it, touch my soul
 Ride it, ride it, let me feel you
 
-**Autor:** regard
+## Información general
+- **Título:** Ride It  
+- **Artista:** Jay Sean  
+- **Año de grabación:** 2007  
+- **Fecha de lanzamiento:** 21 de enero de 2008  
+
+## Autoría
+- **Compositores:**  
+  - Jay Sean  
+  - Alan Sampson  
+- **Productor:**  
+  - Alan Sampson  
+
+## Género musical
+- R&B  
+- Pop contemporáneo  
+
+## Discografía
+- **Álbum:** *My Own Way* (2008)  
+- **También incluida en:** *All or Nothing* (edición internacional)
+
+## Notas adicionales
+- Fue uno de los sencillos más importantes de la carrera temprana de Jay Sean.
+- En 2019, el DJ **Regard** lanzó un remix deep house del tema que se volvió viral a nivel mundial.
