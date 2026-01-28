@@ -1,5 +1,4 @@
-# <<Título principal: Mi ficha de Markdown>>
-
+# TMEV: FICHA PERSONAL
 ## 👤 Presentación
 Hola, soy **<< deybid felipe castillo valencia >>** y esta es mi primera ficha en Markdown.
 
@@ -35,15 +34,15 @@ Aprender a escribir documentos claros y bonitos usando Markdown.
 ## 🔗 Enlaces
 
 Mi página favorita para aprender:
-- [<< Elrincondelvago >>](<<https://www.rincondelvago.com/>>)
+- [Elrincondelvago](https://www.rincondelvago.com/)
 
 Un video recomendado:
-- [<< EL JEFE FINAL !! - Five Nights at Freddy's 4 | Fernanfloo
- >>](<<https://www.youtube.com/watch?v=fDMLb-owurE>>)
+- [EL JEFE FINAL !! - Five Nights at Freddy's 4 | Fernanfloo
+](https://www.youtube.com/watch?v=fDMLb-owurE)
 
  ## 🖼️ Imagen
 
-![Imagen de ejemplo](<<https://yt3.googleusercontent.com/ytc/AIdro_kxkrHE7hOdSg005m6_Lr4A-8cj9qhs2cK4hb6fyOy18FA=s900-c-k-c0x00ffffff-no-rj>>)
+![holasoygerman](https://yt3.googleusercontent.com/ytc/AIdro_kxkrHE7hOdSg005m6_Lr4A-8cj9qhs2cK4hb6fyOy18FA=s900-c-k-c0x00ffffff-no-rj)
 
 ## 🌈 Emojis con intención
 
