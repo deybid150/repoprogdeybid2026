@@ -26,11 +26,11 @@ Aprender a escribir documentos claros y bonitos usando Markdown.
 4. Publicar
 
 ### Checklist
-- [ ] Agregué títulos
-- [ ] Agregué links
-- [ ] Agregué una imagen
-- [ ] Agregué emojis
-- [ ] Revisé que se vea bonito
+- [x] Agregué títulos
+- [x] Agregué links
+- [x] Agregué una imagen
+- [x] Agregué emojis
+- [x] Revisé que se vea bonito
 
 ## 🔗 Enlaces
 
