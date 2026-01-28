@@ -13,8 +13,6 @@
 
 `rm`: Elimina archivos
 
-`cp`: Copia archivos
-
 `mv`: Mueve o renombra archivos
 
 `cat`: Muestra el contenido de un archivo
